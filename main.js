@@ -6,6 +6,10 @@ document.querySelector('.menu-btn').addEventListener('click', () => {
 */
 ScrollReveal().reveal('.showcase');
 ScrollReveal().reveal('.showcase', {delay: 500 });
+ScrollReveal().reveal('.contenedor', {delay: 500 });
+ScrollReveal().reveal('.container', {delay: 500 });
 ScrollReveal().reveal('.new-cards', {delay: 500 });
 ScrollReveal().reveal('.cards-banner-one', {delay: 500 });
 ScrollReveal().reveal('.cards-banner-two', {delay: 500 });
+ScrollReveal().reveal('.footer-links', {delay: 500 });
+ScrollReveal().reveal('.footer', { delay: 500});
